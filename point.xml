@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<polys>
+    <poly name = "a">
+        <polyIn type = "in">
+      	    <point coords = "[(46,44),(42,96),(162,75),(161,32)]"/>
+            <street st_number = "1"/>
+            <segment sg_number = "1"/>
+	      </polyIn>
+        <polyOut type = "out">
+      	    <point coords = "[(40,180),(35,244),(176,221),(185,180)]"/>
+            <street st_number = "1"/>
+            <segment sg_number = "1"/>
+	      </polyOut>
+    </poly>
+
+    <poly name = "b">
+        <polyIn type = "in">
+      	    <point coords = "[(375,35),(371,74),(458,75),(448,32)]"/>
+            <street st_number = "2"/>
+            <segment sg_number = "2"/>
+      	</polyIn>
+        <polyOut type = "out">
+      	    <point coords = "[(365,227),(401,248),(462,230),(466,200)]"/>
+            <street st_number = "2"/>
+            <segment sg_number = "2"/>
+      	</polyOut>
+    </poly>
+
+</polys>
